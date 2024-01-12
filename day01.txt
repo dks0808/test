@@ -1,0 +1,20 @@
+ls 파일 보기
+rm 파일 지우기
+touch 파일 생성
+clear 터미널 창 지우기
+ls -a 숨긴 파일 보기
+ls -al 파일 자세히 보기
+
+git init 
+git commit -m ""
+
+git status 깃 파일 내 상태보기 긴 명령어는 git 이 보임
+git add day01.txt(파일명)(첫극자만 써도 자동완성 ㄷㄷ)
+
+add = 스테이지에 올리는 것/ 장전
+commit= 사용하는 것/ 트리거
+
+
+
+git commit -m "v0.1 first commit"
+이름을 남기는 것.
